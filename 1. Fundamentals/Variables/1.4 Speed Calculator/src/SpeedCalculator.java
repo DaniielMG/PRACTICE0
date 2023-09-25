@@ -7,6 +7,7 @@ public class SpeedCalculator
       //Define a floating point number.
       double speed;
       //Beware of integer division!
+	   String calculation = kilometers / (double) hours
       speed = (speed calculation);
    }
 }

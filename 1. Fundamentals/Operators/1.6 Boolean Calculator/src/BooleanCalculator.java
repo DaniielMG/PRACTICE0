@@ -6,3 +6,4 @@ public class BooleanCalculator
       boolean t = true, f = false;
    }
 }
+

@@ -3,7 +3,16 @@ public class CafeReceipt
    public static void main(String[] args)
    {
       //Information to be printed.
-      /* Declare and initialize the variables used below. */
+	   String customerName;
+	   int cupsOfCoffee;
+	   double costOfCoffee;
+	   boolean tip;
+
+	   customerName = "Hisao";
+	   cupsOfCoffee = 1;
+	   costOfCoffee = 99.9;
+	   tip = true;
+
 
       //Print that information in the console.
       System.out.println("Dear " + customerName + ", thank you for supporting our business!");
